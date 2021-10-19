@@ -204,7 +204,7 @@ color: #fff;
 @media screen and (max-width:767px){
 
     img.soldier{
-        width: clamp(20em, 100%, 70em);
+        width: clamp(20em, 95%, 70em);
     }
     body{
         background-image: url(./images/bg.jpg);
